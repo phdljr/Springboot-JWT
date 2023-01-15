@@ -26,5 +26,5 @@ logging.level:
 
 jwt:
   header: Authorization
-  secret: asdsad
+  secret: c3ByaW5nLWJvb3Qtc2VjdXJpdHktand0LXN0dWR5LXNwcmluZy1ib290LXNlY3VyaXR5LWp3dC1zdHVkeS1zcHJpbmctYm9vdC1zZWN1cml0eS1qd3Qtc3R1ZHktc3ByaW5nLWJvb3Qtc2VjdXJpdHktand0LXN0dWR5LXNwcmluZy1ib290LXNlY3VyaXR5LWp3dC1zdHVkeQ==
   token-validity-in-seconds: 86400
