@@ -1,10 +1,12 @@
 package kr.ac.phdljr.springbootjwt.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
+import kr.ac.phdljr.springbootjwt.entity.User;
 import lombok.*;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
+import java.util.stream.Collectors;
 
 @Getter
 @Setter
